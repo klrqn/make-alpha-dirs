@@ -1,2 +1,1 @@
-# Make A Set of Directories
-# each starting with a letter of the alphabet
+# Create a set of directories A to Z in current folder
